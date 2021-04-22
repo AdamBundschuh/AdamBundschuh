@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamBundschuh
-- 👀 I’m interested in learning programming
+- 👀 I’m interested in learning software development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bundschuh.adam@gmail.com
