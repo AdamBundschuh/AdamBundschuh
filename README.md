@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @AdamBundschuh
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me bundschuh.adam@gmail.com
+- 👋 Hi, I’m @AdamBundschuh. I'm a very passionate software developer currently looking to expand my skillsets and challenge myself.
+
 
 <!---
 AdamBundschuh/AdamBundschuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
