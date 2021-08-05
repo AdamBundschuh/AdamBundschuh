@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdamBundschuh. I'm a very passionate software developer currently looking to expand my skillsets and challenge myself.
+- 👋 Hi, I’m @AdamBundschuh. I'm a very passionate software developer, and I'm currently looking to expand my skillsets and challenge myself.
 
 
 <!---
